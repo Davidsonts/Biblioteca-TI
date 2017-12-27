@@ -16,6 +16,7 @@
 ### Java
 * [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/books/intro-java-cc.pdf)
 * [Java e Orientação a Objetos](https://www.caelum.com.br/apostila-java-orientacao-objetos/)
+* [Conceitos Básicos de Programação Orientada a Objetos - Java](http://jocivan.com.br/portal/wp-content/uploads/2016/04/APOSTILA_TS_DESENVOLVIMENTO_DE_SISTEMAS_Programacao_Orientada_Objetos.pdf)
 
 ### Python
 * [Python para desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf)
